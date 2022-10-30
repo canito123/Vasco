@@ -64,4 +64,5 @@ public class ScriptDoJogador : MonoBehaviour
             transform.Rotate(0f, 0f, 30f * Time.deltaTime);
         }
     }
+    //eu sou foda
 }
